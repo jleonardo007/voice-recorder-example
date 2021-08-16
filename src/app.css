@@ -1,0 +1,20 @@
+.voice-recorder {
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
+}
+
+.title {
+  margin-bottom: 2rem;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.recorder-container {
+  min-width: 300px;
+  width: 30vw;
+  height: 70vh;
+  border-radius: 1rem;
+  background: linear-gradient(to right, #41295a, #2f0743);
+  color: #fff;
+}
